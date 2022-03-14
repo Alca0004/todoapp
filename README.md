@@ -1,3 +1,7 @@
+TODOLIST
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba1f6564-ba82-4eb9-b2ea-7c8853b79b5e/deploy-status)](optimistic-kilby-0d2027.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
