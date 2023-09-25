@@ -1,3 +1,21 @@
+# To Do List w/ JS
+
+A to do appplication very simple, connected to firebase.
+
+
+## Demo
+
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81910f50-85f2-45ee-a000-3444fbc41aea/deploy-status)](https://app.netlify.com/sites/optimistic-kilby-0d2027/deploys)
+## Tech Stack
+
+**Client:**  Javascript
+
+**Server:** Firebase
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
