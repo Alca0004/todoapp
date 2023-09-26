@@ -5,9 +5,8 @@ A to do appplication very simple, connected to firebase.
 
 ## Demo
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba1f6564-ba82-4eb9-b2ea-7c8853b79b5e/deploy-status)](https://app.netlify.com/sites/optimistic-kilby-0d2027/deploys)
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/81910f50-85f2-45ee-a000-3444fbc41aea/deploy-status)]([[https://app.netlify.com/sites/optimistic-kilby-0d2027/deploys](https://optimistic-kilby-0d2027.netlify.app)](https://optimistic-kilby-0d2027.netlify.app))
 ## Tech Stack
 
 **Client:**  Javascript
